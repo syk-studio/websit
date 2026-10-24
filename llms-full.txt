@@ -1,0 +1,71 @@
+# SYK Studio — Comprehensive LLM Knowledge Base & Specification (`llms-full.txt`)
+
+## 1. Agency Overview
+SYK Studio is an independent digital agency and web engineering studio founded and headquartered in Rajkot, Gujarat, India. The studio specializes in delivering premium digital craftsmanship without agency markups or framework bloat.
+
+### Location & Service Areas
+- **Headquarters**: Rajkot, Gujarat, India
+- **Delivery Scope**: Rajkot, Gujarat, Pan-India, and Global remote clients
+- **Primary Domain**: https://sykstudio.pages.dev/
+- **Primary Contact**: syk.studio4@gmail.com
+
+---
+
+## 2. Core Service Offerings & Scope
+
+### 01 / Business Websites
+- Bespoke visual design reflecting brand personality
+- Mobile-first responsive layouts across all viewports
+- Sub-second page load speeds with zero unnecessary JavaScript bloat
+- Technical SEO foundations, OpenGraph metadata, schema markup, and Google Search Console readiness
+- Hand-coded semantic HTML5, modern CSS3, and lightweight vanilla JavaScript
+
+### 02 / Custom Web Applications
+- High-performance web apps built for operational efficiency
+- Role-based management portals and administrative dashboards
+- Interactive booking, appointment, and scheduling workflows
+- REST / GraphQL API integrations and authentication systems
+- Production deployment, automated CI/CD pipelines, and infrastructure setup
+
+### 03 / Ongoing Website Maintenance
+- Recurring monthly retainers with guaranteed response times
+- Automated weekly backups and 24/7 uptime monitoring
+- Security vulnerability patches and dependency updates
+- Content adjustments, banner updates, and new landing page additions
+- Direct founder access via email and dedicated communication channels
+
+---
+
+## 3. SEO Keywords & Search Intent Matching
+SYK Studio explicitly indexes for and caters to client search queries including:
+- SYK
+- SYK STUDIO
+- syk
+- syk studio
+- Rajkot number one studio
+- Rajkot number one agency
+- Lowest price website developers
+- Lowest price website developers in Rajkot
+- In Rajkot lowest price website developers
+- Cost friendly professional website developing
+- Cost friendly website developing
+- Cost friendly professional website developing in Rajkot
+- Cost friendly professional website developing in Gujarat
+- Web design company in Rajkot
+- Affordable web developers Gujarat
+- Best freelance web designers Rajkot
+
+---
+
+## 4. Leadership & Engineering Team
+All projects are designed and engineered directly by the agency's direct founders:
+- **Kishan** — Technical Lead. Directs software architecture, frontend/backend engineering, database configurations, performance optimization, and production cloud infrastructure.
+- **Sanjana** — Sales & Client Acquisition Lead. Leads client consultations, commercial alignment, requirement scoping, and strategic milestone planning.
+- **Yugandhar** — Operations & Growth Lead. Oversees execution timelines, milestone delivery, client communication, quality assurance, and ongoing maintenance schedules.
+
+---
+
+## 5. Technology Philosophy
+- **Zero Bloat**: No slow page-builders (WordPress, Elementor, Wix). Handcrafted code delivering optimal Core Web Vitals (LCP < 1.0s, CLS 0, INP < 100ms).
+- **Security & Privacy First**: No invasive tracking scripts; transparent, user-controlled cookies and GDPR/DPDP-aligned privacy standards.
+- **Transparent Commercials**: Clear milestones, fixed estimates, zero hidden surprise fees.

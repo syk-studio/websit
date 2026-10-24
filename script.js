@@ -1,4 +1,4 @@
-const STUDIO_EMAIL = 'syk.studio0@gmail.com';
+const STUDIO_EMAIL = 'syk.studio4@gmail.com';
 
 // Mobile Navigation Toggle
 const menuButton = document.querySelector('.nav-toggle');
@@ -122,3 +122,33 @@ if ('IntersectionObserver' in window && sectionLinks.length) {
 
   sectionById.forEach((_, section) => section && navObserver.observe(section));
 }
+
+// Cookie Consent Banner Logic
+(function initCookieBanner() {
+  const cookieBanner = document.getElementById('cookie-banner');
+  const acceptBtn = document.getElementById('cookie-accept');
+  const rejectBtn = document.getElementById('cookie-reject');
+
+  if (!cookieBanner) return;
+
+  const consent = localStorage.getItem('syk_cookie_consent');
+  if (!consent) {
+    // Show after slight delay for smooth presentation
+    setTimeout(() => {
+      cookieBanner.classList.add('show');
+    }, 1200);
+  }
+
+  function handleConsent(choice) {
+    localStorage.setItem('syk_cookie_consent', choice);
+    cookieBanner.classList.remove('show');
+  }
+
+  if (acceptBtn) {
+    acceptBtn.addEventListener('click', () => handleConsent('accepted'));
+  }
+  if (rejectBtn) {
+    rejectBtn.addEventListener('click', () => handleConsent('rejected'));
+  }
+})();
+
